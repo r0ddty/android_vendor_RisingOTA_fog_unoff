@@ -4,13 +4,13 @@
 			"maintainer": "SKetU-l",
 			"oem": "asus",
 			"device": "Asus Zenfone Max Pro M1",
-			"filename": "risingOS-v1.3-Dvaraka-RELEASE-202308190242-X00TD-CORE-OFFICIAL.zip",
-			"download": "https://github.com/SKetU-l/uploader/releases/download/risingOS-v1.3-Dvaraka/risingOS-v1.3-Dvaraka-RELEASE-202308190242-X00TD-CORE-OFFICIAL.zip",
-			"timestamp": 1692411966,
-			"md5": "2eca95fe5af95a4f3bc0d19008f8407a",
-			"sha256": "ea0b0d7af4b030f9cd3e61b72be0d53b0cc44bb234ab4e79352ff9ad16fc977f",
-			"size": 1662166196,
-			"version": "v1.3-Dvaraka",
+			"filename": "RisingOS-2.1-RELEASE-20240416-CORE-OFFICIAL-X00TD.zip",
+			"download": "",
+			"timestamp": "",
+			"md5": "",
+			"sha256": "",
+			"size": "",
+			"version": "v2.1-Icarus",
 			"buildtype": "Monthly",
 			"forum": "https://t.me/SKetUs_OT",
 			"gapps": "",
@@ -21,8 +21,8 @@
 			"paypal": "",
 			"telegram": "https://t.me/SKetUl",
 			"dt": "https://github.com/ricedroidOSS-devices/android_device_asus_X00TD.git",
-			"common-dt": "",
-			"kernel": ""
+			"common-dt": "https://github.com/RisingOSS-devices/android_device_asus_sdm660-common.git",
+			"kernel": "https://github.com/SKetU-l/kernel_asus_sdm660-4.19.git"
 		}
 	]
 }

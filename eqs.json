@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "davigamer987",
+			"oem": "Motorola",
+			"device": "Motorola X30 Pro/Edge 30 Ultra",
+			"filename": "RisingOS-2.1-RELEASE-20240416-GAPPS-OFFICIAL-eqs.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/2.x/GAPPS/eqs/RisingOS-2.1-RELEASE-20240416-GAPPS-OFFICIAL-eqs.zip/download",
+			"timestamp": 1713283767,
+			"md5": "6f8259fbd2d3a923c5a8e6857484b98c",
+			"sha256": "c3305fda810bb055786738753c8a193c696d7a98926432ee6731c659158572fb",
+			"size": 2149569473,
+			"version": "GAPPS.GAPPS",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/edge30ultraroms",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/davigamer987",
+			"dt": "https://github.com/RisingOSS-devices/android_device_motorola_eqs",
+			"common-dt": "https://github.com/RisingOSS-devices/android_device_motorola_sm8475-common",
+			"kernel": "https://github.com/holoction-eqs/android_kernel_motorola_sm8475/tree/moto-rebase"
+		}
+	]
+}

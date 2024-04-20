@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "αиѕн",
+			"oem": "realme",
+			"device": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+			"filename": "RisingOS-2.1-RELEASE-20240420-GAPPS-OFFICIAL-salaa.zip",
+			"download": "",
+			"timestamp": "",
+			"md5": "",
+			"sha256": "",
+			"size": "",
+			"version": "v2.1-Icarus",
+			"buildtype": "Monthly",
+			"forum": "https://t.me/AnshBuilds",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/EvilAnsh",
+			"dt": "https://github.com/RisingOSS-devices/android_device_realme_salaa",
+			"common-dt": "",
+			"kernel": "https://github.com/stormbreaker-project/kernel_realme_salaa.git"
+		}
+	]
+}

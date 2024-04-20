@@ -1,9 +1,9 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Xiaomi Poco F1
-Device maintainer: AKSHAT
+Device: Poco F1 (beryllium)
+Device maintainer: Akshat
 
-====06 October, 2023 ====
-- Synced latest source
-- Improved padding
-- Added Viper4Android FX
+====================
+     04-20-2024
+====================
+- Initial A14 update

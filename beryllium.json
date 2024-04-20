@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "AKSHAT",
+        "maintainer": "Akshat",
         "oem": "Xiaomi",
         "device": "Poco F1",
-        "filename": "risingOS-v1.4-Elysium-FINAL-202310051816-beryllium-VANILLA-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/uploads10/files/rise/risingOS-v1.4-Elysium-FINAL-202310051816-beryllium-VANILLA-OFFICIAL.zip/download",
-        "timestamp": 1696529573,
-        "md5": "b0cd583e614eba8b26ad4b5579fe34db",
-        "sha256": "bf3b9aa415705550e4c030e9f153690207dd691668af716b6dff62825824adcb",
-        "size": 1322586632,
-        "version": "v1.4-Elysium",
-        "buildtype": "Monthly",
+        "filename": "http://RisingOS-2.1-RELEASE-20240420-CORE-OFFICIAL-beryllium.zip",
+        "download": "https://sourceforge.net/projects/risingos-official/files/2.x/CORE/beryllium/RisingOS-2.1-RELEASE-20240420-CORE-OFFICIAL-beryllium.zip",
+        "timestamp": 1713607290,
+        "md5": "9f7ff3d72a187a9c3f8c5c78ec1a4ec7",
+        "sha256": "4aeda0f236cddd7ef348c811819496119b49e8cab6b37c0ce9ca01ab2de3b508",
+        "size": 1942499195,
+        "version": "2.1-Icarus",
+        "buildtype": "RELEASE",
         "forum": "https://t.me/arcana_beryllium",
         "gapps": "",
         "firmware": "",
@@ -22,7 +22,7 @@
         "telegram": "https://t.me/Legendleo90",
         "dt": "",
         "common-dt": "",
-        "kernel": "https://github.com/Krtonia/kawaii_xiaomi_sdm845"
+        "kernel": "https://github.com/Legendleo90/kernel_xiaomi_beryllium"
     }
   ]
 }

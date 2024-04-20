@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
+Device maintainer: αиѕн
+
+====================
+     20-04-2024
+====================
+- Initial Official Build
+- Synced Latest rising v2.1 changes
+- Merged April ASB (android-14.0.0_r31)
+- Shipped with the latest Samar's kernel (v4.14.341)
+- Misc. Fixes and Improvements

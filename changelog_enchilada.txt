@@ -1,20 +1,17 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: OnePlus 6
-"version": "v1.0-Atlantis",
+"version": "risingOS v2.1-Icarus",
 Device maintainer: Vikas•Yaduvanshi
 
-==== 25 April, 2023 ====
-
-
-==== ====NOTICE  ==== ==== 
-
-====--Clean  Flash mandatory---====
-if you are come from any rom / old ricedroid
-
-- Synced with Latest initial build RisingOS v1.0
-- April 2023 Security PatchAdded
-- Added full OOS Camera support
--  Back  to non dynamic partition
-- Fixup sepolicy denial
-- Fixed Other minor issues and under the hood improvements
+====================
+     21-04-2024
+====================
+- Initial Official Build
+- Synced Latest rising v2.1 changes
+- Merged April ASB (android-14.0.0_r31)
+- lots of clean done under  dt & kernel side 
+- Adopted changes for qpr2 fixup
+- Misc. Fixes and Improvements
+- Dynamic partition soo full clean flash recommanded 
+- must check support group for more info

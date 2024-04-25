@@ -3,10 +3,9 @@ Build type: Monthly
 Device: Motorola X30 Pro / Edge 30 Ultra (eqs)
 Device maintainer: davigamer987
 
-===== 16-04-2024 =====
+===== 25-04-2024 =====
 
-• Synced Latest Rising 2.1 Source
-• Powershare Fixed
-• Minimum refresh rate set to 60
-• Galaxy Wearable Bluetooth issues have been fixed
+• Synced Latest Rising 2.1 Source (25/04)
+• LTE icon fixed
+• VoLTE fixed
 

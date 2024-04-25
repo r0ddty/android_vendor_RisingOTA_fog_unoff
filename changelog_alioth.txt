@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco F3/ Mi 11x/ Redmi K40 (alioth)
+Device maintainer: Viper
+Required firmware: 14.0.8 Global
+
+============ 25 April 2024 ===============
+
+- Initial A14 QPR2 release 
+- Entirely rebased tree over lineage trees
+- Add some needed features on top of it (Dolby, Leica, and more)
+- Clang switched to neutron 18

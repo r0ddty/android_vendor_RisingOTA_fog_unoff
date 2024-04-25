@@ -1,0 +1,28 @@
+    {
+    	"response": [
+    		{
+    			"maintainer": "Viper",
+    			"oem": "Xiaomi",
+    			"device": "Poco F3/ Mi 11x/ Redmi K40",
+    			"filename": "RisingOS-2.1-RELEASE-20240425-CORE-OFFICIAL-alioth.zip",
+    			"download": "https://sourceforge.net/projects/risingos-official/files/2.x/CORE/alioth/RisingOS-2.1-RELEASE-20240425-CORE-OFFICIAL-alioth.zip/download",
+    			"timestamp": 1714010768,
+    			"md5": "e3f1bb4d44e5eaaaa4f6e0915eddee86",
+    			"sha256": "1f3261355442cb6c2092c9012e59a5134bf23480afa478de67017328e1bc5574",
+    			"size": 1800086082,
+    			"version": "2.1-Icarus",
+    			"buildtype": "RELEASE",
+    			"forum": "https://t.me/otsalioth",
+    			"gapps": "",
+    			"firmware": "",
+    			"modem": "",
+    			"bootloader": "",
+    			"recovery": "",
+    			"paypal": "",
+    			"telegram": "https://t.me/Eidoron1",
+    			"dt": "",
+    			"common-dt": "",
+    			"kernel": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250"
+    		}
+    	]
+    }

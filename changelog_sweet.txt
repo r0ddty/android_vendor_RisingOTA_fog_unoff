@@ -21,3 +21,4 @@ Required firmware: MIUI 14 of your region
 - CORE and full GMS build available
 - Flash with given recovery only
 - Disable wide color gamut because it causes yellowish tint in very few screens like Google photos or setting wallpaper.
+- OTA has been pushed, clean flash is recommended

@@ -1,12 +1,23 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 10 Pro/Pro Max (sweet/sweetin)
-Device maintainer: Ajit
+Device maintainer: Aarav&Ajit
+Required firmware: MIUI 14 of your region
 
-===== 26-08-23 =====
-- Disable camera perflock
-- fixed 64MP/108MP
-- Enable the pre-rendering feature
-- Force triple frame buffers
-- Disable VSync for CPU rendered apps
-- Update QTI factory HAL to v2.3
+===== 12-05-24 =====
+
+- Fixed QS panel lag
+- Fixed volume panel lag
+- Fixed random systemUI restarts and freezes
+- Fixed portrait mode crash
+- Switched to MIUI-Camera
+- Added Notch Bar Killer overlay
+- Imported themed icons
+- Included spatial audio
+- EROFS build
+- Sleepy kernel shipped by default
+- Fixed fps meter
+- Dolby Atmos included with minor fixes
+- CORE and full GMS build available
+- Flash with given recovery only
+- Disable wide color gamut because it causes yellowish tint in very few screens like Google photos or setting wallpaper.

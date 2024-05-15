@@ -4,6 +4,15 @@ Device: Asus Zenfone Max Pro M1 (X00TD)
 Device maintainer: SKetU-l
 Required firmware:
 
+===== 2024.05.15 =====
+
+- Update blobs from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+- Enable vibration multiple intensities
+- Set swappiness to a lower value of 30
+- Uuse libhidlbase-v32 for goodix
+- Switch to AOSP fingerprint HIDL service
+- Misc fixes and improvents
+
 ===== 2024.04.16 =====
 
 - Initial Android 14 build

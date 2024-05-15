@@ -1,28 +1,28 @@
 {
 	"response": [
-		{
-			"maintainer": "SKetU-l",
-			"oem": "asus",
-			"device": "Asus Zenfone Max Pro M1",
-			"filename": "RisingOS-2.1-RELEASE-20240416-CORE-OFFICIAL-X00TD.zip",
-			"download": "",
-			"timestamp": "",
-			"md5": "",
-			"sha256": "",
-			"size": "",
-			"version": "v2.1-Icarus",
-			"buildtype": "Monthly",
-			"forum": "https://t.me/SKetUs_OT",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/SKetUl",
-			"dt": "https://github.com/ricedroidOSS-devices/android_device_asus_X00TD.git",
-			"common-dt": "https://github.com/RisingOSS-devices/android_device_asus_sdm660-common.git",
-			"kernel": "https://github.com/SKetU-l/kernel_asus_sdm660-4.19.git"
-		}
+			{
+					"maintainer": "SKetU-l",
+					"oem": "asus",
+					"device": "Asus Zenfone Max Pro M1",
+					"filename": "risingOS-3.0-RELEASE-20240515-CORE-OFFICIAL-X00TD-ota.zip",
+					"download": "https://sourceforge.net/projects/risingos-official/files/3.x/CORE/X00TD/risingOS-3.0-RELEASE-20240515-CORE-OFFICIAL-X00TD-ota.zip/download",
+					"timestamp": 1715774772,
+					"md5": "86871af9189e575f1e752ed4f35c7569",
+					"sha256": "cff7f122ed35bcff27677be38f3416765f3b655e6e363ff686bab93845a8e136",
+					"size": 1465287687,
+					"version": "3.0-Janus",
+					"buildtype": "RELEASE",
+					"forum": "https://t.me/SKetUs_OT",
+					"gapps": "",
+					"firmware": "",
+					"modem": "",
+					"bootloader": "",
+					"recovery": "",
+					"paypal": "",
+					"telegram": "https://t.me/SKetUl",
+					"dt": "https://github.com/RisingOSS-devices/android_device_asus_X00TD.git",
+					"common-dt": "https://github.com/RisingOSS-devices/android_device_asus_sdm660-common.git",
+					"kernel": "https://github.com/SKetU-l/kernel_asus_sdm660-4.19.git"
+			}
 	]
 }

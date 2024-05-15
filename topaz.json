@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Don Joaquin",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 12 4G",
+                        "filename": "RisingOS-2.2-RELEASE-20240515-GAPPS-OFFICIAL-topaz.zip",
+                        "download": "https://sourceforge.net/projects/risingos-official/files/2.x/GAPPS/topaz/RisingOS-2.2-RELEASE-20240515-GAPPS-OFFICIAL-topaz.zip/download",
+                        "timestamp": 1715750515,
+                        "md5": "1da997b73cc5fa0bf2f96404901f0b5d",
+                        "sha256": "25a3dadb6205b006daae914639bc6abc43fe9f55d5d8aa8ec3ce6173d7733755",
+                        "size": 1868775425,
+                        "version": "2.2-Ignis",
+                        "buildtype": "RELEASE",
+                        "forum": "https://t.me/XiaomiPHCommunity/59443",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/joaquinsupremacy",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}

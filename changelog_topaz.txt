@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 12 4G
+Device maintainer: Don Joaquin
+Required firmware: Hyper OS 1.0.4.0
+
+===== 15-05-24 =====
+
+- Initial Official Build

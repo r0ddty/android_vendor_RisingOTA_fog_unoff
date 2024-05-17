@@ -1,28 +1,28 @@
 {
-  "response": [
-    {
-        "maintainer": "Akshat",
-        "oem": "Xiaomi",
-        "device": "Poco F1",
-        "filename": "http://RisingOS-2.1-RELEASE-20240420-CORE-OFFICIAL-beryllium.zip",
-        "download": "https://sourceforge.net/projects/risingos-official/files/2.x/CORE/beryllium/RisingOS-2.1-RELEASE-20240420-CORE-OFFICIAL-beryllium.zip",
-        "timestamp": 1713607290,
-        "md5": "9f7ff3d72a187a9c3f8c5c78ec1a4ec7",
-        "sha256": "4aeda0f236cddd7ef348c811819496119b49e8cab6b37c0ce9ca01ab2de3b508",
-        "size": 1942499195,
-        "version": "2.1-Icarus",
-        "buildtype": "RELEASE",
-        "forum": "https://t.me/arcana_beryllium",
-        "gapps": "",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "",
-        "telegram": "https://t.me/Legendleo90",
-        "dt": "",
-        "common-dt": "",
-        "kernel": "https://github.com/Legendleo90/kernel_xiaomi_beryllium"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Akshat",
+			"oem": "Xiaomi",
+			"device": "Poco F1",
+			"filename": "RisingOS-3.0-RELEASE-20240517-CORE-OFFICIAL-beryllium-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/CORE/beryllium/RisingOS-3.0-RELEASE-20240517-CORE-OFFICIAL-beryllium-ota.zip/download",
+			"timestamp": 1715939531,
+			"md5": "37ebe6b73859dc1c402330237f7c8195",
+			"sha256": "2155208ee70158617e6fdb90242e8845ed4703a6a9086b89bff2390fd870715f",
+			"size": 1956348944,
+			"version": "3.0-Janus",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/arcana_beryllium",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Legendleo90",
+			"dt": "",
+			"common-dt": "",
+			"kernel": "https://github.com/Legendleo90/kernel_xiaomi_beryllium"
+		}
+	]
 }

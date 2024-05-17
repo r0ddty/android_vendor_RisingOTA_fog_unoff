@@ -4,6 +4,15 @@ Device: Poco F1 (beryllium)
 Device maintainer: Akshat
 
 ====================
+     05-17-2024
+====================
+- Switched to Etude kernel
+- KernelSU inlined(Install apk)
+- Fixed VP9 playback issues
+- Fixed SystemUI crashes
+- Fixed volume panel lag
+
+====================
      04-20-2024
 ====================
 - Initial A14 update

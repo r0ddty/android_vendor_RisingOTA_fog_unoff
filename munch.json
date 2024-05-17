@@ -12,6 +12,17 @@
 			"size": 1760452334,
 			"version": "3.0-Janus",
 			"buildtype": "RELEASE",
+		        "forum": "https://t.me/RisingOSG",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://linktr.ee/erwinabs",
+			"telegram": "https://t.me/erwinabs",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }

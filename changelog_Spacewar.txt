@@ -1,20 +1,20 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Nothing phone1
-"version": "risingOS-v1.3.1-Damascus",
+"version": "3.0-Janus ",
 Device maintainer: vikas Yaduvanshi( Vikas_2_0)
 
-Device Side Changes ( 28 August , 2023 )
+Device Side Changes ( 17 May, 2023 )
  ========================
  
-* Added Richtap vibration effects
-* Fixed excessive battery drain in some scenarios
-* Switch to pixy kernel thanks to brother aswin 
-* Updated libs from nos v1.5.6 
-* Enabled secure NFC support
-* Fixed low speaker volume
+Based on May 2024 Security Patch
 
-• Notes
-- CTS passes by default 
-- you guys need  firmware from nos 1.5+
-- check group for more info 
+- Added nos camera support 
+- Fixed Glyph issues & code improvements
+- Enabled camera override format from reserved
+- Switched stock radio stack to BSP
+- Some misc improvements and fixes
+- Imported QCC system_ext blobs
+- Update system blobs to NOS 2.5.3
+- CTS passed by default
+-  sepolicy: remove dup rules

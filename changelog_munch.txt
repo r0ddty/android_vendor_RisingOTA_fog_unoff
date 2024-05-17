@@ -2,3 +2,7 @@ Highlights & Device Specific Changes:
 Device: Xiaomi Poco f4 (munch)
 Device maintainer: Erwin (erwinabs)
 Required firmware: Latest Global FW
+
+===== 17-05-24 =====
+
+- Initial Official Build

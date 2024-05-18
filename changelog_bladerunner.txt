@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme X50 Pro 5G ( bladerunner )
+Device maintainer: AAMIRR_ALI
+Required firmware: RealmeUI 3
+
+==== ==== NOTICE  ==== ==== 
+
+====--Clean  Flash mandatory---====
+
+===== 18.05.24 =====
+- Initial A14 Update
+- KernelSU By default(Install apk)
+- KernelSU 0.9.4 Drivers Updated
+- Aperture Added
+- OnePlus Dolby Added
+- ViperX Added

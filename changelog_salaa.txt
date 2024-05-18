@@ -4,6 +4,14 @@ Device: Realme 7/Narzo 20 Pro/Narzo 30 4G (salaa)
 Device maintainer: αиѕн
 
 ====================
+     18-05-2024
+====================
+- Synced latest Risinf v3.0 changes
+- Merged May ASB
+- Shipped with the latest Stormbreaker kernel (v4.14.336)
+- Misc. Fixes and Improvements
+
+====================
      20-04-2024
 ====================
 - Initial Official Build

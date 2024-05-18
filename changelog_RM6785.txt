@@ -4,6 +4,14 @@ Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
 Device maintainer: αиѕн
 
 ====================
+     18-05-2024
+====================
+- Synced latest Rising v3.0 changes
+- Merged May ASB
+- Shipped with the latest Samar's kernel (v4.14.341)
+- Misc. Fixes and Improvements
+
+====================
      20-04-2024
 ====================
 - Initial Official Build

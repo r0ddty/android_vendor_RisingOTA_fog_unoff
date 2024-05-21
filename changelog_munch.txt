@@ -3,6 +3,12 @@ Device: Xiaomi Poco f4 (munch)
 Device maintainer: Erwin (erwinabs)
 Required firmware: Latest Global FW
 
+===== 22-05-24 =====
+
+- Add Micam
+- Add Dolby
+- Migrate To EROFS
+
 ===== 17-05-24 =====
 
 - Initial Official Build

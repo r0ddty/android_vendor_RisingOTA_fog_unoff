@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "SeminaAlexandru(semialex16)",
-                        "oem": "Xiaomi",
-                        "device": "veux",
-                        "filename": "risingOS-v1.4-Elysium-FINAL-202309141632-veux-GAPPS-OFFICIAL.zip",
-                        "download": "",
-                        "timestamp": 1694709028,
-                        "md5": "0ee9dc818abf219327719f9dc066cacc",
-                        "sha256": "065d7c75493e67ffc77a7522386d0cc8968bd0b2a00f1e6428a109650c10b908",
-                        "size": 1966818515,
-                        "version": "v1.4-Elysium",
-                        "buildtype": "RELEASE",
-                        "forum": "",
-                        "gapps": "",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "https://www.paypal.me/openmedia15",
-                        "telegram": "",
-                        "dt": "https://github.com/alexandrusemina/device_xiaomi_veux",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "SeminaAlexandru(semialex16)",
+			"oem": "Xiaomi",
+			"device": "veux",
+			"filename": "RisingOS-3.1-RELEASE-20240522-GAPPS-OFFICIAL-veux-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/GAPPS/veux/RisingOS-3.1-RELEASE-20240522-GAPPS-OFFICIAL-veux-ota.zip/download",
+			"timestamp": 1716396691,
+			"md5": "d8493101484f15a643730f21a10c552f",
+			"sha256": "b1f3d96b4d71f471d9d276ed70bfe9ab95ab6d850b8e02efc4b000caef2232e0",
+			"size": 2039213621,
+			"version": "3.1-Janus",
+			"buildtype": "RELEASE",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/openmedia15",
+			"telegram": "",
+			"dt": "https://github.com/alexandrusemina/device_xiaomi_veux",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }

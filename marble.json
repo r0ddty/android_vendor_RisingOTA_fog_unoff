@@ -4,14 +4,14 @@
 			"maintainer": "SharmagRit",
 			"oem": "POCO",
 			"device": "POCO F5",
-			"filename": "risingOS-v1.4-Elysium-FINAL-202309170523-marble-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/sharmagrit/files/marble/",
-			"timestamp": 1694928202,
-			"md5": "b187b30c5ec233304050d91851099c91",
-			"sha256": "dd3065e045667ae1e4a4f5bd1568dce44847add062bfd96ad396b170be5166bb",
-			"size": 2500499096,
-			"version": "v1.4-Elysium",
-			"buildtype": "Stable/Monthly",
+			"filename": "RisingOS-3.1-RELEASE-20240521-CORE-OFFICIAL-marble-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/CORE/marble/RisingOS-3.1-RELEASE-20240521-CORE-OFFICIAL-marble-ota.zip/download",
+			"timestamp": 1716297073,
+			"md5": "b87b594f5f31d9b2d9f90678400ad94e",
+			"sha256": "0a4a20570aea8c8d90d421728ad95cb6bffa6aa72796e82c6c9a0a8ba6ca6f6d",
+			"size": 2212026165,
+			"version": "3.1-Janus",
+			"buildtype": "RELEASE",
 			"forum": "https://forum.xda-developers.com/t/rom-13-marble-poco-f5-official-risingos-1-2-5-camelot.4611765/",
 			"gapps": "",
 			"firmware": "",
@@ -20,9 +20,9 @@
 			"recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/marble/",
 			"paypal": "https://www.paypal.com/paypalme/RiteshKrSharma",
 			"telegram": "https://t.me/SharmagRit",
-			"dt": "https://github.com/RisingOSS-devices/android_device_xiaomi_marble",
-			"vt": "https://github.com/RisingOSS-devices/android_vendor_xiaomi_marble",
-			"kt": "https://github.com/RisingOSS-devices/android_device_xiaomi_marble-kernel"
+			"dt": "https://github.com/xiaomi-sm8450-marble/android_device_xiaomi_marble",
+			"common-dt": "https://github.com/xiaomi-sm8450-marble/android_device_xiaomi_sm8450-common",
+			"kernel": "https://github.com/xiaomi-sm8450-marble/android_kernel_xiaomi_sm8450"
 		}
 	]
 }

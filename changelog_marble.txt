@@ -4,6 +4,15 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: SharmagRit
 
+=×=×= 21th May 2024 =×=×=
+* Synced with latest RisingOS v3.1 Janus sources
+* Add missing charger & dolby visiob blobs
+* Core build
+* Fixed Autobrightness
+* Rebase on Los tree
+* Synced with latest los kernel
+* Update hyper blobs from V816.0.5.0
+
 =×=×= 17th September 2023 =×=×=
 
 Minor Changelogs:

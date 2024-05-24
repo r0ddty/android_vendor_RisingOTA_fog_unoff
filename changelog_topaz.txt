@@ -2,7 +2,27 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 12 4G
 Device maintainer: Don Joaquin
-Required firmware: Hyper OS 1.0.4.0
+Required firmware: Global Fw 1.0.4.0
+
+===== 24-05-24 =====
+
+- Clean flash is highly recommended
+- Synced Latest RisingOS 3.1-Janus Changes
+- Released Variant (Vanilla, Core, GApps)
+- CTS Passed by Default
+- Disabled Blur by Default
+- Disabled SkiaTracing by Default
+- Disabled Useless Spam Logs
+- Fixed Deep Sleep 
+- Fixed Offline Charging 
+- Fixed QS Media Lags
+- Improved Brightness Curve
+- Improved Stability & Performance
+- Reserved Space for GApps (Vanilla)
+- SkiaGL as HWUI Renderer
+- Used AOSP SurfaceFlinger
+- More Support for 4/6gb Ram Variant
+- More Under the hood Optimization
 
 ===== 15-05-24 =====
 

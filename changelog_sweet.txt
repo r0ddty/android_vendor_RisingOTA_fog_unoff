@@ -4,21 +4,16 @@ Device: Redmi Note 10 Pro/Pro Max (sweet/sweetin)
 Device maintainer: Aarav&Ajit
 Required firmware: MIUI 14 of your region
 
-===== 12-05-24 =====
+===== 25-05-24 =====
 
-- Fixed QS panel lag
-- Fixed volume panel lag
-- Fixed random systemUI restarts and freezes
-- Fixed portrait mode crash
-- Switched to MIUI-Camera
-- Added Notch Bar Killer overlay
-- Imported themed icons
-- Included spatial audio
+- Enable ported CLO memory/services optimizations
+- Resolved minor QS lag
+- Dropped XiaomiParts Dolby impl.
+- Imported OnePlus dolby and blobs
+- Imported OzoAudio Engine prebuilts
+- Included ViPER4Android FX by default
 - EROFS build
-- Sleepy kernel shipped by default
-- Fixed fps meter
-- Dolby Atmos included with minor fixes
+- Strix kernel shipped by default
 - CORE and full GMS build available
 - Flash with given recovery only
-- Disable wide color gamut because it causes yellowish tint in very few screens like Google photos or setting wallpaper.
-- OTA has been pushed, clean flash is recommended
+- OTA has been pushed for core gapps build, clean flash is recommended

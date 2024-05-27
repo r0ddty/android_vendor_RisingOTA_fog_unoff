@@ -2,11 +2,12 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco F3/ Mi 11x/ Redmi K40 (alioth)
 Device maintainer: Viper
-Required firmware: 14.0.8 Global
+Required firmware: OS1.0.2.0.TKHMIXM (HyperOS Global)
 
-============ 25 April 2024 ===============
+============ 27 May 2024 ===============
 
-- Initial A14 QPR2 release 
-- Entirely rebased tree over lineage trees
-- Add some needed features on top of it (Dolby, Leica, and more)
-- Clang switched to neutron 18
+- Fixed 5G issue
+- Used 4.5 leica camera
+- Moved all parts settings to system settings
+- Add back battery friendly pocket mode
+- Update blobs from OS1.0.2.0.TKHMIXM

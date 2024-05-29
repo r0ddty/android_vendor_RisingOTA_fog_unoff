@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Generic System Image (GSI)
+Device maintainer: ItsLynix (UniversalX)
+
+===== 29-05-2024 =====
+- Initial Official Build
+- Rising v3.1 changes
+- Enhanced legacy kernel support
+- Build signed with maintainer keys
+- Erroneous SU binary removed

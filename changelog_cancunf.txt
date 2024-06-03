@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Motorola G54 ( cancunf )
+Device maintainer: Ayan (not_ayan99)
+Required firmware: Android 14 fw
+
+===== 03/06/2024 =====
+- Initial build 
+- Sarthak bhai ki jai ho

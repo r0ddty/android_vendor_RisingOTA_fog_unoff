@@ -4,6 +4,20 @@ Device: Poco F1 (beryllium)
 Device maintainer: Akshat
 
 ====================
+     06-04-2024
+====================
+- Removed inlined KernelSU Support(Use ksu supported kernel from support group)
+- Signed build(Play integrity passes now)
+- Added props to improve battery backup
+- Addressed several sepolicy denials
+- Fixed screen flash with charging control
+- Fixed minor qs strutters
+- Switched back to miuicamera
+- Added pixel launcher support(Switch launcher using quickswitch)
+
+NOTE:- Clean Flash Mandatory
+
+====================
      05-17-2024
 ====================
 - Switched to Etude kernel

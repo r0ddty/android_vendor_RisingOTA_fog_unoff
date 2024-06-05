@@ -4,6 +4,13 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: SharmagRit
 
+=×=×= 04th June 2024 =×=×=
+* Synced with latest RisingOS v3.2 Janus sources
+* Fix Ott playback issue
+* Fix QS lag (hopefully)
+* Signed build based on May SP
+* You can do dirty on v3.1, if u face some issue then do a clean flash
+
 =×=×= 21th May 2024 =×=×=
 * Synced with latest RisingOS v3.1 Janus sources
 * Add missing charger & dolby visiob blobs
@@ -15,7 +22,6 @@ Device maintainer: SharmagRit
 
 =×=×= 17th September 2023 =×=×=
 
-Minor Changelogs:
 * Synced with latest risingOS v1.4 Elysium sources
 * Initial oss vendor update
 * Comes with Dolby Atmos
@@ -28,7 +34,6 @@ Minor Changelogs:
 
 =×=×= 28th August 2023 =×=×=
 
-Major Changelogs:
 * Synced with latest risingOS v1.3 sources
 * marble: Enable adaptive color mode
 * marble: overlay: Switch to vendor-defined color modes
@@ -51,6 +56,5 @@ Major Changelogs:
 
 =×=×= 2nd August 2023 =×=×=
 
-Minor Changelogs:
 * Synced with latest risingOS sources.
 * Initial official build.

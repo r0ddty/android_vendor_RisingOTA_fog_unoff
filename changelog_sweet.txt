@@ -4,16 +4,18 @@ Device: Redmi Note 10 Pro/Pro Max (sweet/sweetin)
 Device maintainer: Aarav&Ajit
 Required firmware: MIUI 14 of your region
 
-===== 25-05-24 =====
+===== 08-06-24 =====
 
-- Enable ported CLO memory/services optimizations
-- Resolved minor QS lag
-- Dropped XiaomiParts Dolby impl.
-- Imported OnePlus dolby and blobs
-- Imported OzoAudio Engine prebuilts
+- Signed build with private keys
+- Device integrity passes by default [enable GMS Spoof from settings]
+- Fixed lags in QS and Launcher
+- Fixed portrait mode crash
+- Fixed cpu utilisation
+- Switched to lineageos libperfmgr
 - Included ViPER4Android FX by default
 - EROFS build
 - Strix kernel shipped by default
 - CORE and full GMS build available
+- Clean flash is must!
 - Flash with given recovery only
-- OTA has been pushed for core gapps build, clean flash is recommended
+- OTA has not been pushed due to signed build changes

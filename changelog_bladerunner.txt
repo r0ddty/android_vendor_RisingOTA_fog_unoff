@@ -8,6 +8,15 @@ Required firmware: RealmeUI 3
 
 ====--Clean  Flash mandatory---====
 
+===== 09.06.24 =====
+- Bump to RisingOS 3.2
+- Signed build(Play integrity passes now)
+- Added pixel launcher support(Switch launcher using quickswitch)
+- Replace Dialer With Aosp
+- Enable Call Recording
+- Many more underhood changes
+- Improved system performance and stability
+
 ===== 18.05.24 =====
 - Initial A14 Update
 - KernelSU By default(Install apk)

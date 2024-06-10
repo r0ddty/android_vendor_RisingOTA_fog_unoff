@@ -4,6 +4,15 @@ Device: Pixel 7 Pro (cheetah)
 Device maintainer: Niv
 
 ====================
+     06-09-2024
+====================
+
+   * Synced with latest source changes for 3.2 release
+   * Fixed nga/photos options bug while being spoofed
+   * Passing pay integrity again without root
+   * Fixed some apps not being updated from the play store
+
+====================
      04-20-2024
 ====================
 

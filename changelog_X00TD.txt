@@ -4,6 +4,15 @@ Device: Asus Zenfone Max Pro M1 (X00TD)
 Device maintainer: SKetU-l
 Required firmware:
 
+===== 2024.06.13 =====
+
+- Switch to FBE v2
+- Signed build with private keys
+- Kang libspl.so from mata OPM1.170911.254
+- Explicitly disable "Enable GL comp backpressure"
+- give proper permissions for /dev/diag
+- Misc fixes and improvents
+
 ===== 2024.05.15 =====
 
 - Update blobs from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys

@@ -2,7 +2,31 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 12 4G
 Device maintainer: Don Joaquin
-Required firmware: Global Fw 1.0.4.0
+Required firmware: Global FW 1.0.7.0 / Tapas | 1.0.5.0 / Topaz
+
+===== 18-06-24 =====
+
+- Signed Build (CTS Passed by Default)
+- Added Dolby Atmos
+- Core & GApps Shipped with Pixel Launcher 
+- Enabled APK fs-verity
+- Enabled Smart Pixels
+- Fixed Auto Brightness 
+- Fixed Deep Sleep (Again) :)
+- Fixed SMS Visual Bug (read notes)
+- Fixed USSD 
+- Fixed Ocassional Screen Flickering 
+- Fixed QS Media Lags (Again)
+- Improved Stability and Performance 
+- Improved Status Bar Padding
+- Improved Haptic & Vibe Patterns
+- Muted a Lot of Unnecessary Logs Spam 
+- Switched to Qcom Common Sepolicy
+- Switched to Xiaomi Common Sepolicy 
+- Update Kernel to V816.0.5.0.UMGMIXM
+- Update Vendor to V816.0.5.0.UMGMIXM
+- Update Perf to LA.VENDOR.13.2.6.r1-01400-KAILUA.0
+- Many more :)
 
 ===== 24-05-24 =====
 

@@ -6,7 +6,23 @@ Required firmware: RealmeUI 3
 
 ==== ==== NOTICE  ==== ==== 
 
-====--Clean  Flash mandatory---====
+====--Clean  Flash Mandatory---====
+
+===== 18.07.24 =====
+- Bump to RisingOS 4.0
+- Signed build(Play integrity passes now)
+- Initial QPR3 Release
+- High ram issue fixed completely
+- Qs lag fixed
+- Qs lag while pull down fixed
+- Ui lag fixed
+- Ui Freezz fixed
+- Fixed qs lag while playing media
+- ViperX update to 6.6
+- Lineage health charging removed
+- Realme parts removed
+- Many more underhood changes
+- Improved system performance and stability
 
 ===== 09.06.24 =====
 - Bump to RisingOS 3.2

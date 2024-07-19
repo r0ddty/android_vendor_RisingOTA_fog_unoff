@@ -3,6 +3,18 @@ Device: Xiaomi Poco f4 (munch)
 Device maintainer: Erwin (erwinabs)
 Required firmware: Latest Global FW
 
+===== 29-07-24 =====
+- Update Graphics(Adreno) blobs to LA.UM.9.15.2.r1-09800-KAMORTA.QSSI14.0
+- Update blobs from munch V816.0.2.0.ULMMIXM
+- Update CarrierConfig from munch V816.0.2.0.ULMMIXM
+- Use FUSE passthrough by default
+- Upgrade Keymaster to 4.1
+- pinned Art & Webview
+- Only allow 5G SA on Jio
+- Enable VoNR on Jio 5G
+- add vulkan deqp level permissions
+- Add filecache_min_kb tuning for lmkd
+
 ===== 22-05-24 =====
 
 - Add Micam

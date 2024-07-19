@@ -4,10 +4,7 @@ Device: Poco F3/ Mi 11x/ Redmi K40 (alioth)
 Device maintainer: Viper
 Required firmware: OS1.0.2.0.TKHMIXM (HyperOS Global)
 
-============ 08 June 2024 ===============
+============ 19 July 2024 ===============
 
-- Fixed 5G not showing in settings menu
-- Fixed DT2W
-- Signed build so play integrity is passing
-- Switched to n0kernel
-- Powerhint changes
+- Initial QPR3 build
+- Minor kernel changes and upstream

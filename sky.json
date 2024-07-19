@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "alanpdk | honokascape",
+			"oem": "Xiaomi",
+			"device": "Redmi 12 5G/Redmi 12R/POCO M6 PRO 5G",
+			"filename": "RisingOS-4.0-RELEASE-20240718-CORE-OFFICIAL-sky-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/CORE/sky/RisingOS-4.0-RELEASE-20240718-CORE-OFFICIAL-sky-ota.zip/download",
+			"timestamp": 1721338081,
+			"md5": "cbe350feb2f07e60875f1a33b03f965d",
+			"sha256": "51e5466d56826e4cf722b688e840d2566a033316fc0df528a0f7597297467d17",
+			"size": 1542279484,
+			"version": "4.0-Kailash",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/alanpdk_support",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/alanpdk",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

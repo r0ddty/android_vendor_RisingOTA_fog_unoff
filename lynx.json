@@ -4,13 +4,13 @@
 			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "Pixel 7a",
-			"filename": "RisingOS-3.1-RELEASE-20240524-GAPPS-OFFICIAL-lynx-ota.zip",
-			"download": "https://sourceforge.net/projects/rising-os-for-lynx/files/Official/OTA-Recovery/Android_14/rom/RisingOS-3.1-RELEASE-20240524-GAPPS-OFFICIAL-lynx-ota.zip/download",
-			"timestamp": 1716571468,
-			"md5": "c3def9c583726755fb3bf45b864cb6b5",
-			"sha256": "352271853df2514dc50d61de8cd881735756f55d13806fd30a7e85166345e952",
-			"size": 2490391144,
-			"version": "3.1-Janus",
+			"filename": "RisingOS-4.0-RELEASE-20240720-GAPPS-OFFICIAL-lynx-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/rising-os-for-lynx/files/Official/OTA-Recovery/Android_14/rom/RisingOS-4.0-RELEASE-20240720-GAPPS-OFFICIAL-lynx-ota-signed.zip/download",
+			"timestamp": 1721486973,
+			"md5": "f8732527587c0eed4226988984303eb0",
+			"sha256": "13944727a06515269c17c331d181917fba2150ebd4a17c79348ff001f7cfbdac",
+			"size": 2743988231,
+			"version": "4.0-Kailash",
 			"buildtype": "RELEASE",
 			"forum": "https://xdaforums.com/t/rom-official-a14-risingos-v2-0-gapps-feb-spl-02-18-24.4597839/",
 			"gapps": "",
@@ -20,9 +20,9 @@
 			"recovery": "",
 			"paypal": "",
 			"telegram": "",
-			"dt": "https://github.com/nivlafx/android_device_google_gs201",
-			"common-dt": "https://github.com/LineageOS/android_device_google_lynx",
-			"kernel": "https://github.com/LineageOS/android_kernel_google_gs201"
+			"dt": "https://github.com/LineageOS/android_device_google_gs201",
+			"common-dt": "https://github.com/austineyoung2000/android_device_google_lynx/tree/Rising-4.x",
+			"kernel": "https://android.googlesource.com/device/google/lynx-kernel/+/refs/heads/main"
 		}
 	]
 }

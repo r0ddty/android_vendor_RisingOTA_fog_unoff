@@ -4,6 +4,20 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: SharmagRit
 
+=×=×= 20th July 2024 =×=×=
+* Synced with latest RisingOS v4.0 Kailash sources
+* Add props for better signal
+* Add support for Dolby spatial audio
+* Fixed double tap to wake
+* Declare more media packages for Dolby
+* Enable FPS info
+* Import missing media codecs from stock
+* Fixed Camera OIS
+* Updated BCR to v1.65
+* Update CarriedConfig from Munch V816.0.2.0.ULMMIXM
+* Update Adreno blobs from chenfeng V816.0.5.0.UNJCNXM
+* Can dirty flash over v3.2 (Make it clean flash, if u having some issue)
+
 =×=×= 04th June 2024 =×=×=
 * Synced with latest RisingOS v3.2 Janus sources
 * Fix Ott playback issue

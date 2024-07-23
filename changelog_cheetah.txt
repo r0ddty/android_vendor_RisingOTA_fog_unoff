@@ -4,6 +4,15 @@ Device: Pixel 7 Pro (cheetah)
 Device maintainer: Niv
 
 ====================
+     07-23-2024
+====================
+
+   * Synced with latest source changes for 4.0 release
+   * Updated DT to July SPL
+   * Added lawnchair which can be changed via quickswitch (Thanks Ash)
+   * Updated extracted stock overlays to July spl
+
+====================
      06-09-2024
 ====================
 

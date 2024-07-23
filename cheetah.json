@@ -4,13 +4,13 @@
 			"maintainer": "Niv",
 			"oem": "Google",
 			"device": "Pixel 7 Pro",
-			"filename": "RisingOS-3.2-RELEASE-20240610-GAPPS-OFFICIAL-cheetah-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/GAPPS/cheetah/RisingOS-3.2-RELEASE-20240610-GAPPS-OFFICIAL-cheetah-ota-signed.zip/download",
-			"timestamp": 1717981242,
-			"md5": "bf3421e769cfd59e7ff93292acdeb288",
-			"sha256": "18cfde2300f46b61a581dee6163044ebb96b95d486a9fc7c2db036b8e3bba72b",
-			"size": 2458758074,
-			"version": "3.2-Janus",
+			"filename": "RisingOS-4.1-RELEASE-20240725-GAPPS-OFFICIAL-cheetah-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/cheetah/RisingOS-4.1-RELEASE-20240725-GAPPS-OFFICIAL-cheetah-ota-signed.zip/download",
+			"timestamp": 1721904674,
+			"md5": "a2ee1a4caac51c9557e63cbcfb5e696f",
+			"sha256": "f968c3d1931a79a18b742af306ee7a82cdf9462368bde25f666e1998b81744b7",
+			"size": 2742339911,
+			"version": "4.1-Kailash",
 			"buildtype": "RELEASE",
 			"forum": "https://xdaforums.com/t/rom-13-pantah-risingos-1-1-babylon-gapps-aosp-official.4581505/",
 			"gapps": "",
@@ -20,9 +20,9 @@
 			"recovery": "",
 			"paypal": "https://paypal.me/nivlafx1",
 			"telegram": "https://t.me/RisingOS_Pixels",
-			"dt": "https://github.com/nivlafx/android_device_google_pantah",
-			"common-dt": "https://github.com/nivlafx/android_device_google_gs201",
-			"kernel": "https://github.com/nivlafx/android_kernel_google_gs201"
+			"dt": "https://github.com/LineageOS/android_device_google_pantah",
+			"common-dt": "https://github.com/LineageOS/android_device_google_gs201",
+			"kernel": "https://android.googlesource.com/device/google/pantah-kernel"
 		}
 	]
 }

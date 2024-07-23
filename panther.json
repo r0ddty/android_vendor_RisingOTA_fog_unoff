@@ -4,13 +4,13 @@
 			"maintainer": "Niv",
 			"oem": "Google",
 			"device": "Pixel 7",
-			"filename": "RisingOS-3.2-RELEASE-20240610-GAPPS-OFFICIAL-panther-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/GAPPS/panther/RisingOS-3.2-RELEASE-20240610-GAPPS-OFFICIAL-panther-ota-signed.zip/download",
-			"timestamp": 1717987114,
-			"md5": "507fcbb43061d6067ead191ebeb9fd76",
-			"sha256": "38d97a686c8252255c8541cca5f59db74c177a44b9287e48d864a1d389815e74",
-			"size": 2457061547,
-			"version": "3.2-Janus",
+			"filename": "RisingOS-4.1-RELEASE-20240725-GAPPS-OFFICIAL-panther-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/panther/RisingOS-4.1-RELEASE-20240725-GAPPS-OFFICIAL-panther-ota-signed.zip/download",
+			"timestamp": 1721902398,
+			"md5": "c47fbe5d662bec50317b5cc62903baf7",
+			"sha256": "2dc706726313e1e107c95d3bdf1c123b465979f343e16f4eb445b4fd7dafce31",
+			"size": 2741313182,
+			"version": "4.1-Kailash",
 			"buildtype": "RELEASE",
 			"forum": "https://xdaforums.com/t/rom-13-pantah-risingos-1-1-babylon-gapps-aosp-official.4581505/",
 			"gapps": "",
@@ -20,9 +20,9 @@
 			"recovery": "",
 			"paypal": "https://paypal.me/nivlafx1",
 			"telegram": "https://t.me/RisingOS_Pixels",
-			"dt": "https://github.com/nivlafx/android_device_google_pantah",
-			"common-dt": "https://github.com/nivlafx/android_device_google_gs201",
-			"kernel": "https://github.com/nivlafx/android_kernel_google_gs201"
+			"dt": "https://github.com/LineageOS/android_device_google_pantah",
+			"common-dt": "https://github.com/LineageOS/android_device_google_gs201",
+			"kernel": "https://android.googlesource.com/device/google/pantah-kernel"
 		}
 	]
 }

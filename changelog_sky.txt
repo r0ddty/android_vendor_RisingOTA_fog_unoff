@@ -1,4 +1,9 @@
 ======================
+  25-07-2024
+======================
+- Added OTA support
+
+======================
   19-07-2024
 ======================
 - Display and sound improvements (wired earphones)

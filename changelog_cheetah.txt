@@ -4,7 +4,13 @@ Device: Pixel 7 Pro (cheetah)
 Device maintainer: Niv
 
 ====================
-     07-23-2024
+     07-26-2024
+====================
+
+   * Fixed issues with extracted pixel overlays
+
+====================
+     07-25-2024
 ====================
 
    * Synced with latest source changes for 4.0 release

@@ -1,7 +1,25 @@
 Highlights & Device Specific Changes:
-Build type: Weekly
+Build type: Monthly
 Device: Xiaomi POCO X3 NFC (surya)
-Device maintainer: rxuglr
+Device maintainer: Skyy丨アラタ
+
+===== 26-07-24 =====
+- Bring UP to Official
+- Initial UQPR3 Release
+- Import MiSys blobs from stock
+- Define OEM fast charge sysfs node
+- Set `select_higher` Battery to 0 value for fix fast charging issue
+- Enable video pause workaround for video call
+- Included and updated LeicaCam to 7.5 HOTFIX (Thanks to @itzdfplayer_stash)
+- Revamped XiaomiParts
+- KSU not included
+- Integrity and cts should pass by default
+- From previous build by @rxuglr should clean flash bcz use different tree (Can dirty from previous build by @HinohArata [Unofficial])
+- Optimize for Spatial Audio
+- Enable powerhint parsing after boot completion
+- Fix PowerOffAlarm
+- sepolicy: Address IImsRadio denials
+- More improvement
 
 ===== 17-09-23 =====
 - surya: gps: Resolve unused parameter warnings 

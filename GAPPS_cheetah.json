@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Niv",
+			"oem": "Google",
+			"device": "Pixel 7 Pro",
+			"filename": "RisingOS-4.1-RELEASE-20240727-GAPPS-OFFICIAL-cheetah-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/cheetah/RisingOS-4.1-RELEASE-20240727-GAPPS-OFFICIAL-cheetah-ota-signed.zip/download",
+			"timestamp": 1722117804,
+			"md5": "3ab09eda48c3ecaf4f5abd25aabcc053",
+			"sha256": "3e6d822b94aed646d257f0e97a651ff63f9fb8130c6098ce9a754c2d96f733f1",
+			"size": 2742107692,
+			"version": "4.1-Kailash",
+			"buildtype": "RELEASE",
+			"forum": "https://xdaforums.com/t/rom-13-pantah-risingos-1-1-babylon-gapps-aosp-official.4581505/",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/nivlafx1",
+			"telegram": "https://t.me/RisingOS_Pixels",
+			"dt": "https://github.com/LineageOS/android_device_google_pantah",
+			"common-dt": "https://github.com/LineageOS/android_device_google_gs201",
+			"kernel": "https://android.googlesource.com/device/google/pantah-kernel"
+		}
+	]
+}

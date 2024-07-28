@@ -4,6 +4,10 @@ Device name: Redmi Note 11 Pro 5G/ Poco X4 Pro 5G
 Device codename: veux
 Device maintainer: SeminaAlexandru(semialex16)
 
+=×=×= 28th July 2024 =×=×=
+
+• Synced with latest risingOS sources.
+
 =×=×= 22nd May 2024 =×=×=
 
 • Synced with latest risingOS sources.

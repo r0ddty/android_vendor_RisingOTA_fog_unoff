@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "SeminaAlexandru(semialex16)",
+			"oem": "Xiaomi",
+			"device": "veux",
+			"filename": "RisingOS-4.1-RELEASE-20240728-GAPPS-OFFICIAL-veux-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/veux/RisingOS-4.1-RELEASE-20240728-GAPPS-OFFICIAL-veux-ota-signed.zip/download",
+			"timestamp": 1722157665,
+			"md5": "9582834efab9681345640d057bdddff0",
+			"sha256": "3b089c0972d06b721e3f94ee6c112309648d55f19be1f694964310ec182480a3",
+			"size": 2288115731,
+			"version": "4.1-Kailash",
+			"buildtype": "RELEASE",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/openmedia15",
+			"telegram": "https://t.me/alexveuxchat",
+			"dt": "https://github.com/alexandrusemina/device_xiaomi_veux",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

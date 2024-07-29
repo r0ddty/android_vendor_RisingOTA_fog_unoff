@@ -3,6 +3,16 @@ Build type: Monthly
 Device: Xiaomi POCO X3 NFC (surya)
 Device maintainer: Skyy丨アラタ
 
+===== 28-07-24 =====
+- Leica fully working now (Parallel processing, Documents mode, UW, HDR, EIS, Watermark, etc)
+- Update Leica version to 5.0 Beta 8.1 (Thanks @itzdfplayer_stash)
+- Disale TTS logcrash
+- Use QCOM implementation for audio effects
+- Increase In-call earpiece volume
+- Fixup audio io policy voip_rx
+- Build libaudio-resampler
+- Disable QTI perf lock usage in camera HAL
+
 ===== 26-07-24 =====
 - Bring UP to Official
 - Initial UQPR3 Release

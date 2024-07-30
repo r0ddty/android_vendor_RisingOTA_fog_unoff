@@ -4,17 +4,17 @@
                         "maintainer": "davigamer987",
                         "oem": "Motorola",
                         "device": "Motorola X30 Pro/Edge 30 Ultra",
-                        "filename": "RisingOS-4.0-RELEASE-20240719-GAPPS-OFFICIAL-eqs-ota-signed.zip",
-                        "download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/eqs/RisingOS-4.0-RELEASE-20240719-GAPPS-OFFICIAL-eqs-ota-signed.zip/download",
-                        "timestamp": 1721421827,
-                        "md5": "11abfe18abe7f543023147e83f678658",
-                        "sha256": "f4ec2bae03c0bfa8578fbd3bdfb2ed20e2246032c99e34352a03f9a3659b963b",
-                        "size": 2848720884,
-                        "version": "4.0-Kailash",
+                        "filename": "RisingOS-4.1-RELEASE-20240730-GAPPS-OFFICIAL-eqs-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/eqs/RisingOS-4.1-RELEASE-20240730-GAPPS-OFFICIAL-eqs-ota-signed.zip/download",
+                        "timestamp": 1722370932,
+                        "md5": "8ffb7f9ed85d9b6a7bbce52696e8cfb5",
+                        "sha256": "f58190b221c07f5066c7488b297e2d59b7c94af253d45925c315bd6a0ed1e4e0",
+                        "size": 2852933904,
+                        "version": "4.1-Kailash",
                         "buildtype": "RELEASE",
                         "forum": "https://t.me/edge30ultraroms",
                         "gapps": "",
-                        "firmware": "",
+                        "firmware": "U1SQS34.52-21-1-7",
                         "modem": "",
                         "bootloader": "",
                         "recovery": "",
@@ -22,7 +22,7 @@
                         "telegram": "https://t.me/davigamer987",
                         "dt": "https://github.com/RisingOSS-devices/android_device_motorola_eqs",
                         "common-dt": "https://github.com/RisingOSS-devices/android_device_motorola_sm8475-common",
-                        "kernel": "https://github.com/holoction-eqs/android_kernel_motorola_sm8475/tree/moto-rebase"
+                        "kernel": "https://github.com/RisingOSS-devices/android_kernel_motorola_sm8475"
                 }
         ]
 }

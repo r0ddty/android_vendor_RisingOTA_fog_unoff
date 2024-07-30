@@ -3,9 +3,9 @@ Build type: Monthly
 Device: Motorola X30 Pro / Edge 30 Ultra (eqs)
 Device maintainer: davigamer987
 
-===== 19-07-2024 =====
+===== 30-07-2024 =====
 
-• Synced Latest Rising 4.0 Source (19/07)
-• Updates to A14 FW (FW Upgrade is done automatically when updating)
-• Various Battery and Performance Changes
+• Synced Latest Rising 4.1 Source (30/07)
+• New Kernel from Cosmin
+• Updated Display HAL from Lineage
 

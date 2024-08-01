@@ -1,3 +1,8 @@
+======================
+  01-08-2024
+======================
+- Synced with latest source changes for 4.2 release
+
 30-07-2024
 ======================
 - Safetynet Fix
@@ -6,15 +11,3 @@
   25-07-2024
 ======================
 - Added OTA support
-
-======================
-  19-07-2024
-======================
-- Display and sound improvements (wired earphones)
-- Fix Adaptive refresh rate
-- Support for XIG03 Model
-- Fix Offline charging
-- Switched to OSS libperfmgr
-- Updated Blobs & Carrier config from V816.0.5.0.UMWINXM HyperOS
-- Lift to wake
-- Upstreamed kernel to latest stock 198 version

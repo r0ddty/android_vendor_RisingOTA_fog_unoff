@@ -3,7 +3,7 @@ Build type: Monthly
 Device: Xiaomi POCO X3 NFC (surya)
 Device maintainer: Skyy丨アラタ
 
-===== 28-07-24 =====
+===== 02-08-24 =====
 - Enable USB Debugging by default after boot
 - Switch to GalleryGo for Gallery app
 

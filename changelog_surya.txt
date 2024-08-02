@@ -4,6 +4,10 @@ Device: Xiaomi POCO X3 NFC (surya)
 Device maintainer: Skyy丨アラタ
 
 ===== 28-07-24 =====
+- Enable USB Debugging by default after boot
+- Switch to GalleryGo for Gallery app
+
+===== 28-07-24 =====
 - Leica fully working now (Parallel processing, Documents mode, UW, HDR, EIS, Watermark, etc)
 - Update Leica version to 5.0 Beta 8.1 (Thanks @itzdfplayer_stash)
 - Disale TTS logcrash

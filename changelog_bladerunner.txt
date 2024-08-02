@@ -8,6 +8,16 @@ Required firmware: RealmeUI 3
 
 ====--Clean  Flash Mandatory---====
 
+===== 2.08.24 =====
+- Bump to RisingOS 4.2
+- Signed build(Play integrity passes now)
+- Enable Pixel Launcher Support
+- Enable Lawnchair Launcher Support
+- Fix some more memory leaks by source
+- Improve more qs junk and lag
+- Many more underhood changes
+- Improved system performance and stability
+
 ===== 18.07.24 =====
 - Bump to RisingOS 4.0
 - Signed build(Play integrity passes now)

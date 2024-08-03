@@ -4,6 +4,18 @@ Device: Pixel 7 (panther)
 Device maintainer: Niv
 
 ====================
+     08-03-2024
+====================
+
+   * Sync and update for 4.2 changes
+   * Fixed more extracted overlay issues
+   * Corrected the exclusion of aospa faceunlock implementation, we are now using google's face enroll again
+   * Updater now supports build type updates so vanilla, core and gapps builds can utilize the updater app without worries of installing the incorrect build
+   * The issue of a long delay/screen remains off when waking up the device is resolved
+   * Included more prebuilt apk (Chrome, Gmail, Drive etc)
+   * We now support Json based spoofing for play integrity passing
+
+====================
      07-26-2024
 ====================
 

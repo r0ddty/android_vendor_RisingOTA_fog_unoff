@@ -4,6 +4,15 @@ Device: Poco F1 (beryllium)
 Device maintainer: Akshat
 
 ====================
+     08-02-2024
+====================
+- Bumped to RisingOS 4.2
+- Added lawnchair launcher support
+- Improved overall system stability
+
+NOTE:- Dirty flash from previous build is possible
+
+====================
      07-19-2024
 ====================
 - Switched to dynamic thermal profile

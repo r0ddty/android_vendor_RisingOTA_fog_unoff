@@ -4,13 +4,13 @@
 			"maintainer": "Akshat",
 			"oem": "Xiaomi",
 			"device": "Poco F1",
-			"filename": "RisingOS-4.0-RELEASE-20240719-CORE-OFFICIAL-beryllium-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/CORE/beryllium/RisingOS-4.0-RELEASE-20240719-CORE-OFFICIAL-beryllium-ota.zip/download",
-			"timestamp": 1721411716,
-			"md5": "1cc84a072a7ebadb96ff6cbd1e5cdff7",
-			"sha256": "fb46d97e15a42b342babb5d798b7f30796e5c3b91fe4c210f1757fd2768e8342",
-			"size": 2277553881,
-			"version": "4.0-Kailash",
+			"filename": "RisingOS-4.2-RELEASE-20240802-CORE-OFFICIAL-beryllium-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/CORE/beryllium/RisingOS-4.2-RELEASE-20240802-CORE-OFFICIAL-beryllium-ota.zip/download",
+			"timestamp": 1722593406,
+			"md5": "0594ff51cb482f33b33ad594d8f9f045",
+			"sha256": "595060ebbc1f8432b13452be2a8dcb9fc4d8eb3a885a19d9b710d7dacd281909",
+			"size": 2297344245,
+			"version": "4.2-Kailash",
 			"buildtype": "RELEASE",
 			"forum": "https://t.me/arcana_beryllium",
 			"gapps": "",
@@ -18,11 +18,11 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://www.paypal.com/paypalme/legendleo90",
 			"telegram": "https://t.me/Legendleo90",
 			"dt": "",
 			"common-dt": "",
-			"kernel": "https://github.com/Legendleo90/kernel_xiaomi_beryllium"
+			"kernel": ""
 		}
 	]
 }

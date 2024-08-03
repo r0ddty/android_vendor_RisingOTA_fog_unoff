@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Akshat",
+			"oem": "Xiaomi",
+			"device": "Poco F1",
+			"filename": "RisingOS-4.2-RELEASE-20240802-VANILLA-OFFICIAL-beryllium-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/VANILLA/beryllium/RisingOS-4.2-RELEASE-20240802-VANILLA-OFFICIAL-beryllium-ota.zip/download",
+			"timestamp": 1722630899,
+			"md5": "e7b8972a8927fd407540d833f21787c7",
+			"sha256": "09a1c88bce7bdce9894ad3371aa4925857f2af82280c5a7037e2f00ce01975f9",
+			"size": 1541392066,
+			"version": "4.2-Kailash",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/arcana_beryllium",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/28-Jul-2024/NikGapps-core-arm64-14-20240728-signed.zip/download",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/legendleo90",
+			"telegram": "https://t.me/Legendleo90",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

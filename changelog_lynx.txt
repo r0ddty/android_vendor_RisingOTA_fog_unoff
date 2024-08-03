@@ -1,3 +1,11 @@
+===== 2024.08.02 =====
+- Sync and update for 4.2 changes
+- We now support Json based spoofing for play integrity passing
+- Introducing Three finger long press gestures
+- Added option to show custom AOD image on top of custom clock
+- and so much more ( https://github.com/RisingTechOSS/risingOS_changelogs )
+
+
 ===== 2024.07.20 =====
 - Synce with latest sources on 7/20/24 introducing RisingOS 4.0
 - All ASI related issues fixed

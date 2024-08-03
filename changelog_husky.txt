@@ -1,8 +1,9 @@
-Highlights & Device Specific Changes:
-Build type: Weekly
-Device: Google Pixel 8 Pro ( HUSKY )
-Device maintainer: EliteDarkKaiser & Albinoman887
-Release Version : v3.1-Janus 2024-05-24
+===== 2024.08.02 =====
+- Sync and update for 4.2 changes
+- We now support Json based spoofing for play integrity passing
+- Introducing Three finger long press gestures
+- Added option to show custom AOD image on top of custom clock
+- and so much more ( https://github.com/RisingTechOSS/risingOS_changelogs )
 
 ====================
      05-24-2024

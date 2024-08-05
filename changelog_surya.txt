@@ -3,11 +3,20 @@ Build type: Monthly
 Device: Xiaomi POCO X3 NFC (surya)
 Device maintainer: Skyy丨アラタ
 
+===== 05-08-24 =====
+
+- power: Migrate to device power-libperfmgr and libqti-perfd-client
+- fixup! Double Tap To Wake now is working
+
+
 ===== 02-08-24 =====
+
 - Enable USB Debugging by default after boot
 - Switch to GalleryGo for Gallery app
 
+
 ===== 28-07-24 =====
+
 - Leica fully working now (Parallel processing, Documents mode, UW, HDR, EIS, Watermark, etc)
 - Update Leica version to 5.0 Beta 8.1 (Thanks @itzdfplayer_stash)
 - Disale TTS logcrash
@@ -17,7 +26,10 @@ Device maintainer: Skyy丨アラタ
 - Build libaudio-resampler
 - Disable QTI perf lock usage in camera HAL
 
+
+
 ===== 26-07-24 =====
+
 - Bring UP to Official
 - Initial UQPR3 Release
 - Import MiSys blobs from stock
@@ -35,7 +47,10 @@ Device maintainer: Skyy丨アラタ
 - sepolicy: Address IImsRadio denials
 - More improvement
 
+
+
 ===== 17-09-23 =====
+
 - surya: gps: Resolve unused parameter warnings 
 - surya: Fix BOARD_FLASH_BLOCK_SIZE 
 - surya: Fix IMS symlink as per dynamic partitions 
@@ -47,18 +62,27 @@ Device maintainer: Skyy丨アラタ
 - surya: Enable GL comp backpressure 
 - surya: Disable SF client composition cache 
 
+
+
 ===== 14-08-23 =====
+
 - Disable remote keyguard animation
 - Add spatial audio
 - Add Leica 5.0 support
 
+
+
 ===== 14-08-23 =====
+
 - Remove updatable APEX
 - Override risingOS device property
 - Don't use Pixel fingerprint
 - Bring QuickTap back
 
+
+
 ===== 23-07-23 =====
+
 - Initial official build
 - Update Dolby
 - Add JamesDSP

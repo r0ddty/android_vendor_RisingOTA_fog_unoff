@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "αиѕн",
+			"oem": "realme",
+			"device": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+			"filename": "RisingOS-4.2-RELEASE-20240807-GAPPS-OFFICIAL-RM6785-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/RM6785/RisingOS-4.2-RELEASE-20240807-GAPPS-OFFICIAL-RM6785-ota.zip/download",
+			"timestamp": 1723017897,
+			"md5": "e0cb365272366b12d5dab336abd40910",
+			"sha256": "840ee0e88d4b7b200ce529d4fd745af0de81f99d8763f704d10115e4b82d40aa",
+			"size": 2434938766,
+			"version": "4.2-Kailash",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/AnshBuilds",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/EvilAnsh",
+			"dt": "https://github.com/RisingOSS-devices/android_device_realme_RM6785",
+			"common-dt": "",
+			"kernel": "https://github.com/realme-mt6785-devs/android_kernel_realme_mt6785"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Ayan",
+                        "oem": "Motorola",
+                        "device": "Motorola G54",
+                        "filename": "RisingOS-4.2-RELEASE-20240807-GAPPS-OFFICIAL-cancunf-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/c>
+                        "timestamp": 1723042203,
+                        "md5": "",
+                        "sha256": "",
+                        "size": ,
+                        "version": "4.2-Kailash",
+                        "buildtype": "RELEASE",
+                        "forum": "https://t.me/motorolag54official",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/not_ayan99",
+                        "dt": "https://github.com/RisingOSS-devices/android_device_<oem>_<device_codename>
+                        "common-dt": "https://github.com/RisingOSS-devices/android_device_<orm>_<SOC>-com>
+                        "kernel": "https://github.com/RisingOSS-devices/android_kernel_<oem>_<SOC>"
+                }
+        ]
+}

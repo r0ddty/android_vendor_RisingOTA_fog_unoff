@@ -1,15 +1,15 @@
 {
 	"response": [
 		{
-			"maintainer": "AAMIRR ALI",
+			"maintainer": "AAMIR ALI",
 			"oem": "Realme",
 			"device": "Realme X50 Pro",
-			"filename": "RisingOS-5.0-FINAL_BETA-20240810-GAPPS-OFFICIAL-bladerunner-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/GAPPS/bladerunner/RisingOS-5.0-FINAL_BETA-20240810-GAPPS-OFFICIAL-bladerunner-ota.zip/download",
-			"timestamp": 1723313169,
-			"md5": "66e801801ab8020cc6a3b7dac7918ec2",
-			"sha256": "c47e28ae12c3699dec706b2240f9ea266ee3295508913199de96a4f4f40b0e02",
-			"size": 3163848849,
+			"filename": "RisingOS-5.0-FINAL_BETA-20240811-GAPPS-OFFICIAL-bladerunner-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/OPEN-BETA/RisingOS-5.0-FINAL_BETA-20240811-GAPPS-OFFICIAL-bladerunner-ota-signed.zip/download",
+			"timestamp": 1723365083,
+			"md5": "9390de2ef8de01297a968fc294d510b6",
+			"sha256": "0405ad7f38ed0fe8186788ef82fef0024a9ae797c556e24deb1f6ce3ce8117f5",
+			"size": 3164356273,
 			"version": "5.0-Lyonesse",
 			"buildtype": "FINAL_BETA",
 			"forum": "https://t.me/Alischatroom",

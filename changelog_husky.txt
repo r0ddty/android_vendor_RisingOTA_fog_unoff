@@ -1,3 +1,16 @@
+===== 2024.08.20 =====
+**REPO**
+- Now syncing with Rising Staging REPO as of 5.0 Release
+- feature list ( https://github.com/RisingTechOSS/risingOS_changelogs )
+
+**Device Tree**
+- Basic Call Recorder now included
+- Now Shipping Google FaceEnroll
+- Updated to August Firmware
+
+**Vendor Device Tree**
+- Removed all ASI prebuilts in favor of risings ASI from vendor/gms
+
 ===== 2024.08.02 =====
 - Sync and update for 4.2 changes
 - We now support Json based spoofing for play integrity passing

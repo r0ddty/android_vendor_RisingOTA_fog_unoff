@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "Pixel 8a",
+			"filename": "RisingOS-5.0-FINAL-20240820-VANILLA-OFFICIAL-akita-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-for-akita/files/A14/Vanilla/RisingOS-5.0-FINAL-20240820-VANILLA-OFFICIAL-akita-ota-signed.zip/download",
+			"timestamp": 1724193752,
+			"md5": "d1433fa6c2e75f57b9715966b64977f4",
+			"sha256": "a3b94b81f42bbb896bd69777775046196879b30dc17f104be21d522a61b68c24",
+			"size": 1547757210,
+			"version": "5.0-Lyonesse",
+			"buildtype": "FINAL",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/RisingOS_Pixels",
+			"dt": "https://github.com/austineyoung2000/android_device_google_akita",
+			"common-dt": "https://github.com/austineyoung2000/android_device_google_zuma",
+			"kernel": "https://android.googlesource.com/device/google/akita-kernel"
+		}
+	]
+}

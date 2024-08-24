@@ -3,6 +3,7 @@ Device: Xiaomi Poco f4 (munch)
 Device maintainer: Erwin (erwinabs)
 Required firmware: Latest Global FW
 
-===== 07-08-24 =====
-- Clean Flash Needed
-- Use Recovery RisingOS
+===== 24-08-24 =====
+- Update blobs to LA.UM.9.15.2.r1-10100-KAMORTA.QSSI14.0
+- Update Blobs OS1.0.4.0.ULMMIXM
+- sepolicy: allow Read Sched

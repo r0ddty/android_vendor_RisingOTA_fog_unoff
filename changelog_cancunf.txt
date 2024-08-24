@@ -22,3 +22,13 @@ Required firmware: Android 14 U1TD34M.94-12-7 or newer
 - Switch to OSS Mediatek USB AIDL service
 - Use NCM for USB tethering
 - Add Support for moto g64 5G
+
+===== 24/08/2024 =====
+- Updated to latest Google GKI 5.10.223
+- Source Upstream
+- Update Dolby with Graphic Equalizer
+- Add ESim support
+- Fix USB DAC (USB Audio)
+- Rework UClamp configuration
+- Misc Performance improvements
+- Set default up/down rate limits to 500/1000 us

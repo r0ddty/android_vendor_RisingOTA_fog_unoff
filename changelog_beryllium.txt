@@ -6,6 +6,14 @@ Device maintainer: Akshat
 ====================
      08-02-2024
 ====================
+- Bumped to RisingOS 5.0(FINAL)
+- Improved overall performance
+
+NOTE:- Dirty flash from previous build is possible
+
+====================
+     08-02-2024
+====================
 - Bumped to RisingOS 4.2
 - Added lawnchair launcher support
 - Improved overall system stability

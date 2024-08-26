@@ -1,4 +1,9 @@
 ======================
+  26-08-2024
+======================
+- Synced with latest source changes for 5.0 release
+
+======================
   01-08-2024
 ======================
 - Synced with latest source changes for 4.2 release

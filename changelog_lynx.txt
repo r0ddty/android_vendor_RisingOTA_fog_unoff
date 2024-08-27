@@ -1,3 +1,9 @@
+===== 2024.08.26 =====
+**REPO**
+- Now syncing with Rising Main REPO ( 5.0 ) 
+- Fixes towards Basic, Device & Strong integrity ( no root and modules needed )
+- Custom boot animations
+
 ===== 2024.08.20 =====
 **REPO**
 - Now syncing with Rising Staging REPO as of 5.0 Release

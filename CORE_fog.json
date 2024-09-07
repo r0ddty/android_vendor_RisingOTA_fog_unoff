@@ -11,7 +11,7 @@
 			"sha256": "ab553b09d40c206143b6c10c79661b759eb63e576dbfd80ae1823d2ec6140595",
 			"size": 2225340396,
 			"version": "5.2-Lyonesse",
-			"buildtype": "FINAL",
+			"buildtype": "FINAL-EOL",
 			"forum": "https://t.me/rootdchat",
 			"telegram": "https://t.me/TheProjectC",
 			"dt": "https://github.com/r0ddty/device_xiaomi_fog",

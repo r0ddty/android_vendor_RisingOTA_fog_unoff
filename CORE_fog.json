@@ -13,6 +13,7 @@
 			"version": "5.2-Lyonesse",
 			"buildtype": "FINAL-EOL",
 			"forum": "https://t.me/rootdchat",
+			"gapps": "none",
 			"telegram": "https://t.me/TheProjectC",
 			"dt": "https://github.com/r0ddty/device_xiaomi_fog",
 			"kernel": "https://github.com/r0ddty/kernel_xiaomi_fog"

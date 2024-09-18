@@ -1,3 +1,7 @@
+===== 18/09/2024 =====
+- Disable low-ram mode
+- Disable forced landscape split QS
+
 ===== 17/09/2024 =====
 - Bump to 5.2.1-Lyonesse
 - Fixed FP Gestures bug(credits to @AlterNoegraha)
